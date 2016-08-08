@@ -1,0 +1,16 @@
+ID,Description,Quantity,Value,Link
+ANT,SMA Connector,1,,http://www.mouser.fr/ProductDetail/Linx-Technologies/CONSMA003062/?qs=sGAEpiMZZMuLQf%252bEuFsOru48dlYVRPu%252bytfcJlDzcVM%3d
+BLN,Balun LDB212G4005C-001,16,,http://www.digikey.com/product-detail/en/johanson-technology-inc/2450BM15A0002E/712-1536-1-ND/2392136
+C,SMD 0402 Capacitor,4,10uF,http://www.mouser.fr/ProductDetail/Murata-Electronics/GRM155R60G106ME44D/?qs=sGAEpiMZZMsh%252b1woXyUXj9DchB33R5nknu3pcLYYoE4%3d
+C,SMD 0402 Capacitor,33,1uF,http://www.mouser.fr/ProductDetail/Murata-Electronics/GRM155C80J105KE15D/?qs=sGAEpiMZZMsh%252b1woXyUXj2wviHEPaWeFVpNuU7d69tw%3d
+C,SMD 0402 Capacitor,72,0.1uF,http://www.mouser.fr/ProductDetail/TDK/C1005X7R1H104K050BE/?qs=sGAEpiMZZMsnnjF5aXV%2fXgC18HryInZ31SWrYs4AoTM%3d
+C,SMD 0402 Capacitor,16,0.01uF,http://www.mouser.fr/ProductDetail/Murata-Electronics/GCM155R71H103KA55D/?qs=sGAEpiMZZMsh%252b1woXyUXjyBw8LYChpgflf%2fL5k2BH60%3d
+C,SMD 0402 Capacitor,32,27pF,http://www.mouser.fr/ProductDetail/Murata-Electronics/GRM1555C1H270GA01D/?qs=sGAEpiMZZMs0AnBnWHyRQO3lCa4gsPOhfVPUlkd%2fxYg%3d
+C,SMD 0402 Capacitor,16,2.2pF,http://www.mouser.fr/ProductDetail/Murata-Electronics/GJM1555C1H2R2CB01D/?qs=sGAEpiMZZMs0AnBnWHyRQNchIam%2fLmo3IEG%2fW6Qz9%2fo%3d
+I,SMD 0402 Inductor,16,2.2nH,http://www.mouser.fr/ProductDetail/TDK/MLG1005S2N2ST000/?qs=sGAEpiMZZMsg%252by3WlYCkUxiAETH0qV2QjSTWVv4VQ7M%3d
+I,SMD 0402 Inductor,16,1.5nH,http://www.mouser.fr/ProductDetail/TDK/MLG1005S2N2ST000/?qs=sGAEpiMZZMsg%252by3WlYCkUxiAETH0qV2QjSTWVv4VQ7M%3d
+R,SMD 0402 Resistor,16,56kΩ+/-1%,http://www.mouser.fr/ProductDetail/Panasonic/ERJ-2RKF5602X/?qs=sGAEpiMZZMu61qfTUdNhG6gKAQVNBKOogaDJHX5%2ftOs%3d
+R,SMD 0402 Resistor,16,10kΩ,http://www.mouser.fr/ProductDetail/Panasonic/ERJ-2RKF1002X/?qs=sGAEpiMZZMtG0KNrPCHnjWXb3yLuGJ27NFP5ZGPk3ko%3d
+Y,SMD HC49 SD Crystal,16,32 MHz,http://www.mouser.fr/ProductDetail/Citizen/HCM49-32000MABJ-UT/?qs=6siQ5y5nVCzC4AjXsKreRQ%3d%3d
+CC2520,CC2520 802.15.4 RF,16,,http://www.mouser.fr/ProductDetail/Texas-Instruments/CC2520RHDR/?qs=sGAEpiMZZMv2aFJto%252b5bBe9JoE1DMboAsAhWo5D8z4E%3d
+BP4U,BP4U+ power splitter,5,,https://www.minicircuits.com/pdfs/BP4U+.pdf
